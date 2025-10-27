@@ -1,6 +1,6 @@
 # DevOps Simulator
 
-A comprehensive CI/CD configuration management tool for enterprise deployments.
+A comprehensive CI/CD configuration management tool for enterprise deployments .
 
 ## Project Status
 - **Version**: 1.0.0 (Production), 2.0.0-beta (Development)

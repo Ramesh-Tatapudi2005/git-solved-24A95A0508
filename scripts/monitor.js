@@ -48,6 +48,7 @@ function checkSystemHealth() {
   console.log('System Status: HEALTHY');
 }
 
+
 console.log(`Monitoring every ${config.interval}ms`);
 setInterval(checkSystemHealth, config.interval);
 checkSystemHealth();

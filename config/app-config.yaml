@@ -57,7 +57,6 @@ development:
   mock_external_apis: true
   debug_mode: true
   cors_enabled: true
-  
 notifications:
   slack_webhook: "https://hooks.slack.com/services/XXX"
   discord_webhook: "https://discord.com/api/webhooks/YYY"

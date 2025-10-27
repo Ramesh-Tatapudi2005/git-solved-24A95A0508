@@ -1,6 +1,7 @@
 #!/bin/bash
 set -e
 
+
 # Multi-Environment Deploy Script
 # Default to production if not specified
 DEPLOY_ENV=${DEPLOY_ENV:-production}
