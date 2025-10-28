@@ -16,23 +16,23 @@ merge conflicts across multiple branches using proper Git workflows.
 | Command | Times Used | Purpose |
 |---------|------------|----------|
 | git clone | 1 | Clone instructor's repository |
-| git checkout | 30+ | Switch between branches |
+| git checkout | 10+ | Switch between branches |
 | git branch | 25+ | View and manage branches |
 | git merge | 2 | Merge dev and conflict-simulator into main |
 | git add | 30+ | Stage resolved conflicts |
-| git commit | 15+ | Commit resolved changes |
+| git commit | 10+ | Commit resolved changes |
 | git push | 15+ | Push to my repository |
 | git fetch | 2 | Fetch updates from instructor |
 | git pull | 3 | Pull updates |
 | git stash | 2 | Save temporary work |
 | git cherry-pick | 2 | Copy specific commit |
-| git rebase | 1 | Rebase feature branch |
+| git rebase | 2 | Rebase feature branch |
 | git reset | 3 | Undo commits (soft/mixed/hard) |
 | git revert | 1 | Safe undo |
 | git tag | 2 | Create release tags |
-| git status | 50+ | Check repository state |
+| git status | 30+ | Check repository state |
 | git log | 15+ | View history |
-| git diff | 20+ | Compare changes |
+| git diff | 10+ | Compare changes |
 
 ## Conflicts Resolved
 
